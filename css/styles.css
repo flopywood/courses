@@ -1,0 +1,44 @@
+body {
+    background-color: #ffd43b;
+}
+
+.course-company-logo {
+    width: 50%;
+    height: 35px;
+}
+
+.course-thumbnail {
+    width: 80px;
+    height: 80px;
+    margin-right: 12px;
+}
+
+.collapsible-header {
+    height: 100px;
+}
+
+.collapsible-header,
+.collapsible-body {
+    padding: 8px 12px;
+}
+
+.course-title {
+    font-weight: 400;
+}
+
+.course-description {
+    font-style: italic;
+}
+
+.course-acamica {
+    border-radius: 50%;
+}
+
+.a1 {
+    background-color: #85235b
+}
+
+.course-codecademy {
+    background-color: #204056;
+    padding: 10px;
+}
