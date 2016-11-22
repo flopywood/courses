@@ -10,7 +10,7 @@ body {
 .course-thumbnail {
     width: 80px;
     height: 80px;
-    margin-right: 12px;
+    margin-right: 18px;
 }
 
 .collapsible-header {
@@ -55,7 +55,19 @@ body {
 }
 
 .a6 {
-    background-color: #1aaedf;
+    background-color: #f7d947;
+}
+
+.a7 {
+    background-color: #0869ae;
+}
+
+.a8 {
+    background-color: #2ab590;
+}
+
+.a9 {
+    background-color: #201e5b
 }
 
 .course-codecademy {
