@@ -22,6 +22,16 @@ body {
     padding: 8px 12px;
 }
 
+.card-panel {
+    margin-bottom: 0;
+    border: 1px solid #ddd;
+    border-bottom-width: 0px;
+}
+
+.collapsible {
+    margin-top: 0;
+}
+
 .course-title {
     font-weight: 400;
 }
